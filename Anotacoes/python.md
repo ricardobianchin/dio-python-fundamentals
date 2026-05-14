@@ -12,6 +12,11 @@
 - [Tipos de Dados](conhecendo/tipos-de-dados.md)
 - [Variáveis e Constantes](conhecendo/variaveis-e-constantes.md)
 - [Conversão de Tipos](conhecendo/conversao-de-tipos.md)
+- [Funções de Entrada e Saída](conhecendo/funcoes-de-entrada-e-saida.md)
+
+## Operadores
+
+- [Tipos de Operadores](operadores/tipos-de-operadores.md)
 
 ## funcoes
 
